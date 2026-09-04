@@ -1,4 +1,8 @@
+
+
+### Author : Chab Minea 
 # Insulin Pump Control System
+
 
 ## 1. Project Overview
 
